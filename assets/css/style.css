@@ -1886,7 +1886,7 @@ section {
   text-decoration: none;
 }
 /* center video section */
-.row{
+#section-center{
   text-align: center;
   display: flex;
   align-items: center;
